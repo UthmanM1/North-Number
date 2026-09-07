@@ -1,0 +1,8 @@
+[
+{"sku":"NN-SOL-001","title":"Halo Solar House Number","type":"Solar illuminated house number","material":"Powder-coated aluminium","variants":["1 digit","2 digits","3 digits","4 digits"],"price":39,"stock":42,"category":"Solar Signs","marketplace_status":"Live","compliance_status":"Review"},
+{"sku":"NN-ALU-014","title":"Obsidian Aluminium Plaque","type":"House number plaque","material":"Aluminium","variants":["100mm","150mm","200mm"],"price":28,"stock":86,"category":"Metal Signs","marketplace_status":"Live","compliance_status":"Not applicable"},
+{"sku":"NN-ACR-008","title":"Studio Acrylic Number","type":"Acrylic house number","material":"Acrylic / PMMA","variants":["100mm","150mm","200mm"],"price":22,"stock":64,"category":"Acrylic Signs","marketplace_status":"Live","compliance_status":"Not applicable"},
+{"sku":"NN-SOL-004","title":"Beacon Solar Address Plaque","type":"Solar illuminated address plaque","material":"Aluminium + acrylic","variants":["Number only","Number + street"],"price":49,"stock":19,"category":"Solar Signs","marketplace_status":"Compliance review","compliance_status":"Pending"},
+{"sku":"NN-BRS-003","title":"Heritage Brass Number","type":"Metal house number","material":"Brass","variants":["100mm","125mm"],"price":31,"stock":27,"category":"Premium Metal","marketplace_status":"Live","compliance_status":"Not applicable"},
+{"sku":"NN-CUS-021","title":"House + Street Custom Plaque","type":"Personalised address plaque","material":"Aluminium","variants":["Small","Medium","Large"],"price":36,"stock":51,"category":"Personalised","marketplace_status":"Ready to publish","compliance_status":"Not applicable"}
+]
